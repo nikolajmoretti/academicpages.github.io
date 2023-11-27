@@ -6,6 +6,6 @@ excerpt: 'In this paper, we analyse the effect of different fiscal policy measur
 date: 2023-11-01
 venue: 'CEPA Discussion Paper'
 paperurl: 'https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/61276/file/cepa70.pdf'
-citation: 'Blanz, Alkis, Ulrich Eydam, Matthias Kalkuhl, Maik Heinemann, and Nikolaj Moretti (2023). &quot;Fiscal Policy and Energy Price Shocks.&quot; <i>CEPA Discussion Paper</i>. No. 70.'
+#citation: 'Blanz, Alkis, Ulrich Eydam, Matthias Kalkuhl, Maik Heinemann, and Nikolaj Moretti (2023). &quot;Fiscal Policy and Energy Price Shocks.&quot; <i>CEPA Discussion Paper</i>. No. 70.'
 ---
 
