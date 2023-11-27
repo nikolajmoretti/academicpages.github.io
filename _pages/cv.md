@@ -11,29 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S.
-* M.S.
-* Ph.D 
+* Ph.D candidate in Economics at MCC Berlin and University of Potsdam
+* M.S. in Economics, Eberhard-Karls-Universität Tübingen, 2020
+* M.S in Economics and Econometrics, University of Nottingham, 2020
+* B.S. in Mathematics and Economics, Ruprecht-Karls-Universität Heidelberg, 2018
+* B.A. in International Relations, Technische Universität Dresden, 2016
+
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autumn 2018: Intern
+  * R+V Versicherung AG 
+  * Duties included: Working with large scale internal model of insurance company
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2016: Intern
+  * Federal Ministry of Finance
+  * Duties included: Writing country reports and analyses
+
+* 2012-2013: Volunteer Journalist
+  * Presse Universitaire d'Abomey Calavi, Benin
+  * Duties included: Daily editorial and journalistic work
+  
+# Skills
+# ======
+
 
 Publications
 ======
@@ -53,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service and leadership
+# ======
+# * 
