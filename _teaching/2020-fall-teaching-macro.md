@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Macroeconomics (Teaching Assistant)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate and Undergraduate course"
+permalink: /teaching/2020-fall-teaching-macro.md
+venue: "Friedrich Schiller Universität Jena, Department of Economics"
+date: 2020-10-01
+location: "Jena, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In the autumn of 2020, I worked as a teaching assistant at Friedrich Schiller Universität Jena. I held the exercise for macroeconomics on both undergraduate and graduate level. Since the exercises took place online, I gathered experience in remote teaching.
