@@ -2,7 +2,7 @@
 title: "Macroeconomics (Teaching Assistant)"
 collection: teaching
 type: "Graduate and Undergraduate course"
-permalink: /teaching/2020-fall-teaching-macro.md
+permalink: #/teaching/2020-fall-teaching-macro
 venue: "Friedrich Schiller Universität Jena, Department of Economics"
 date: 2020-10-01
 location: "Jena, Germany"
