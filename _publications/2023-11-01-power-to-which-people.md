@@ -1,7 +1,7 @@
 ---
 title: "Power to which people? Energiegerechtigkeit und ownership-Strukturen in Energiegenossenschaften"
 collection: publications
-permalink: /publication/2023-11-01-power-to-which-people.md
+permalink: #/publication/2023-11-01-power-to-which-people
 excerpt: 'In this article, we study how energy cooperatives foster a <i>just transition</i> in the energy sector based on interviews conducted with members of two cooperatives.'
 date: 2023-11-01
 venue: 'Umweltgerechtigkeit und sozialökologische Transformation'
