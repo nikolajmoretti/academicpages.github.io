@@ -34,8 +34,8 @@ Work experience
   * Presse Universitaire d'Abomey Calavi, Benin
   * Duties included: Daily editorial and journalistic work
   
-# Skills
-# ======
+{% Skills%}
+{% ======%}
 
 
 Publications
