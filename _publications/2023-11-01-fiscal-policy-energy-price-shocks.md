@@ -1,7 +1,7 @@
 ---
 title: "Fiscal Policy and Energy Price Shocks"
 collection: publications
-permalink: /publication/2023-11-01-fiscal-policy-energy-price-shocks.md
+permalink: {%/publication/2023-11-01-fiscal-policy-energy-price-shocks.md%}
 excerpt: 'In this paper, we analyse the effect of different fiscal policy measures in response to a non-anticipated energy price shock in a real-business-cycle model with heterogeneous households differing ith respect to their energy consumption and savings capacity.'
 date: 2023-11-01
 venue: 'CEPA Discussion Paper'
