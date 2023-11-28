@@ -8,4 +8,4 @@ venue: 'Financial Markets and Portfolio Management'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11408-020-00367-z.pdf'
 # citation: 'Moretti, Nikolaj and Johannes Bartels. (2021). &quot;Interaction effects between dynamic hybrid products and traditional deferred annuities in the German life insurance market.&quot; <i>Financial Markets and Portfolio Management</i>. 35, 193–224.'
 ---
-This is what you see when you clikc on the title of the publication
+This is what you see when you click on the title of the publication
