@@ -1,13 +1,12 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Navigating the Trade-Offs: The Impact of Redistribution on Public Support for Climate
+Policy"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Talk"
+permalink: /talks/2023-03-30-rgsecon-doctoral-conference
+venue: "Ruhr-Graduate-School of Economis Doctoral Conference, Ruhr-Universität Bochum"
+date: 2023-03-30
+location: "Bochum, Germany"
 ---
-
-[More information here](http://exampleurl.com)
 
 This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
