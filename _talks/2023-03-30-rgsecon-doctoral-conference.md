@@ -8,5 +8,4 @@ venue: "Ruhr-Graduate-School of Economis Doctoral Conference, Ruhr-Universität 
 date: 2023-03-30
 location: "Bochum, Germany"
 ---
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Presentation of an ongoing project on the political economy of climate policy in the presence of borrowing constrained households.
