@@ -8,4 +8,7 @@ venue: 'Umweltgerechtigkeit und sozialökologische Transformation'
 paperurl: 'https://www.transcript-verlag.de/media/pdf/9c/f2/5f/oa9783839463253gqgG0YvMXY0dJ.pdf'
 #citation: 'Rieder, Quirin, Konstantin Veit, Nikolaj Moretti, Luis Peters, Celine Li. (2023). &quot;Power to which people? Energiegerechtigkeit und ownership-Strukturen in Energiegenossenschaften.&quot; <i>Umweltgerechtigkeit und sozialökologische Transformation</i>. Transcript Verlag. 117-144.'
 ---
-This is what you see when you click on the title of the publication.
+
+[Download paper here](https://www.transcript-verlag.de/media/pdf/9c/f2/5f/oa9783839463253gqgG0YvMXY0dJ.pdf)
+
+Recommended citation: Rieder, Quirin, Konstantin Veit, Nikolaj Moretti, Luis Peters, Celine Li. (2023). "Power to which people? Energiegerechtigkeit und ownership-Strukturen in Energiegenossenschaften"; <i>Umweltgerechtigkeit und sozialökologische Transformation</i>. Transcript Verlag. 117-144.
