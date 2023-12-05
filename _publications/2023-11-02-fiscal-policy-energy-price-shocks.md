@@ -22,4 +22,4 @@ spective, tax-financed measures targeting firms effectively cushion aggregate ou
 
 [Download paper here](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/61276/file/cepa70.pdf)
 
-Recommended citation: Blanz, Alkis, Ulrich Eydam, Matthias Kalkuhl, Maik Heinemann, and Nikolaj Moretti (2023). &quot;Fiscal Policy and Energy Price Shocks.&quot; <i>CEPA Discussion Paper</i>. No. 70.
+Recommended citation: Blanz, Alkis, Ulrich Eydam, Matthias Kalkuhl, Maik Heinemann, and Nikolaj Moretti (2023). "Fiscal Policy and Energy Price Shocks"; <i>CEPA Discussion Paper</i>. No. 70.
