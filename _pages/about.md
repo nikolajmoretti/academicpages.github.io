@@ -11,6 +11,8 @@ Hi! My name is Nikolaj Moretti and I am a Ph.D candidate in economics at the [Me
 
 I work on topics at the intersection of climate policy and public debt. Method wise, I currently focus on formal and numerical modelling. However, I do have a background and strong interest in econometric methods, too. Current projects focus on consequences of the presence of borrowing constraints in a political economy model, risk premiums on international capital markets on international carbon emission mitigation and climate adaptation in emerging economies, as well as fiscal rules.  
 
+Apart from my research interests, I am fond of (Italian) cuisine and music. I sing and play the guitar in a band. My current project is to improve my improvisation skills on the guitar and get on stage at a Blues jam session.
+
 <!---
 Stemming from my undergraduate studies in mathematics, I have a fascination for category theory and its applications. Even though I currently do not find the time to cultivate it, I hope to return to it at some future point in time.
 --->
