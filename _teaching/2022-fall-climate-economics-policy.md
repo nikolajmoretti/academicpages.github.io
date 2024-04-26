@@ -1,5 +1,5 @@
 ---
-title: "Climate Economicy and Policy (Teaching Assistant)"
+title: "Climate Economics and Policy (Teaching Assistant)"
 collection: teaching
 type: "Exercise"
 permalink: /teaching/2022-fall-climate-economicy-policy
