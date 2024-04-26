@@ -23,19 +23,24 @@ Education
 Work experience
 ======
 
-* 2021: MCC Berlin (Researcher, ongoing)
+* 2021-present: MCC Berlin (Researcher)
   *  Duties included: Conceptualization and implementation of a vulnerability index in the context of coal phase outs, policy evaluation in the context of the 2022 European energy crisis using a DSGE model
 
-* Autumn 2018: R+V Versicherung AG (Intern, 2 months)
+* 2018: R+V Versicherung AG (Intern, 2 months)
   * Duties included: Working with large scale internal model of insurance company
   
-* Spring 2016: Federal Ministry of Finance (Intern, 2 months) 
+* 2016: Federal Ministry of Finance (Intern, 2 months) 
   * Duties included: Writing country reports and analyses
 
 * 2012-2013: Presse Universitaire d'Abomey Calavi, Benin (Volunteer Journalist, 10 months)
   * Duties included: Daily editorial and journalistic work
   
-
+Awards
+======
+* 2021-present: Ph.D. scholarship by the German Federal Environmental Foundation (<i>Deutsche Bundesstiftung Umwelt</i>)
+* 2020 World Economy Prize for the best M.Sc. dissertation at the University of Nottingham's school of economics
+* 2020 School Prize for Performance in M.Sc. at the University of Nottingham's school of economics
+* 2013-2020: Scholarship by the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>)
 
 Publications
 ======
