@@ -46,7 +46,7 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     <!--Comment: {% include archive-single-cv.html %} -->
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
   
 Talks
