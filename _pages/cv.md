@@ -40,7 +40,8 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    <!--Comment: {% include archive-single-cv.html %} -->
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Talks
@@ -52,7 +53,8 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    <!--Comment:{% include archive-single-cv.html %} -->
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 
