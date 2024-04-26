@@ -11,27 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D candidate in Economics at MCC Berlin and University of Potsdam
-* M.S. in Economics, Eberhard-Karls-Universität Tübingen, 2020
-* M.S in Economics and Econometrics, University of Nottingham, 2020
-* B.S. in Mathematics and Economics, Ruprecht-Karls-Universität Heidelberg, 2018
+* Ph.D. candidate in Economics at MCC Berlin and Universität Potsdam, ongoing
+* Easter School on Macroeconomic Modelling and Policy, University of Surrey, 2023 (1 week)
+* Summer School on Economic Foundations of Energy and Climate Policies, European University Institute, 2022 (1 week)
+* M.Sc. in Economics, Eberhard-Karls-Universität Tübingen, 2020
+* M.Sc in Economics and Econometrics, University of Nottingham, 2020
+* B.Sc. in Mathematics and Economics, Ruprecht-Karls-Universität Heidelberg, 2018
 * B.A. in International Relations, Technische Universität Dresden, 2016
 
   
 Work experience
 ======
 
-* Autumn 2018: Intern
-  * R+V Versicherung AG 
-  * Duties included: Working with large scale internal model of insurance company
+* Summer 2021: MCC Berlin (Researcher, 6 months)
+  *  Duties included: Conceptualization and implementation of a vulnerability index in the context of coal phase outs
 
+* Autumn 2018: R+V Versicherung AG (Intern, 2 months)
+  * Duties included: Working with large scale internal model of insurance company
   
-* Spring 2016: Intern
-  * Federal Ministry of Finance
+* Spring 2016: Federal Ministry of Finance (Intern, 2 months) 
   * Duties included: Writing country reports and analyses
 
-* 2012-2013: Volunteer Journalist
-  * Presse Universitaire d'Abomey Calavi, Benin
+* 2012-2013: Presse Universitaire d'Abomey Calavi, Benin (Volunteer Journalist, 10 months)
   * Duties included: Daily editorial and journalistic work
   
 
