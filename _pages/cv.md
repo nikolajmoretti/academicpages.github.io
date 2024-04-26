@@ -23,8 +23,8 @@ Education
 Work experience
 ======
 
-* Summer 2021: MCC Berlin (Researcher, 6 months)
-  *  Duties included: Conceptualization and implementation of a vulnerability index in the context of coal phase outs
+* 2021: MCC Berlin (Researcher, ongoing)
+  *  Duties included: Conceptualization and implementation of a vulnerability index in the context of coal phase outs, policy evaluation in the context of the 2022 European energy crisis using a DSGE model
 
 * Autumn 2018: R+V Versicherung AG (Intern, 2 months)
   * Duties included: Working with large scale internal model of insurance company
