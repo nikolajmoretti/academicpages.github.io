@@ -82,7 +82,14 @@ layout: default
       {% endif %}
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
+          {% if post.collection == "publications" %}
+            {% include archive-single-publication.html type="grid" %}
+          {% else %}
+            {% include archive-single.html type="grid" %}
+          {% endif %}
+        <!--  OLD: WITHOUT IF- ELSE CONDITION
           {% include archive-single.html type="grid" %}
+        -->
         {% endfor %}
       </div>
     </div>
