@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hi! My name is Nikolaj Moretti and I am a Ph.D. candidate in economics at the [Mercator Research Institute on Global Commons and Climate Change Berlin](https://www.mcc-berlin.net/en/index.html) and the University of Potsdam.  
 
-I work on topics at the intersection of climate policy and public debt. My current methodological focus lies on formal and numerical modelling. However, I do have a solid foundation and strong interest in econometric methods, too. Ongoing projects are concerned with the consequences of borrowing constraints in political economy models as well as (optimal) fiscal rules. Furthermore, I analyse the effect of endogenous default risk and resulting risk premiums on carbon emission mitigation and climate adaptation in emerging economies in a quantitative model of sovereign default.
+I work on topics at the intersection of climate policy and public debt. My current methodological focus lies on formal and numerical modelling. However, I do have a solid foundation and strong interest in econometric methods, too. Ongoing projects are concerned with the consequences of borrowing constraints in political economy models as well as (optimal) fiscal rules.
 
 Apart from my research interests, I am fond of (Italian) cuisine and music in general. I sing and play the guitar in a band. My current project is to improve my improvisation skills on the guitar and get on stage at a Blues jam session.
 
