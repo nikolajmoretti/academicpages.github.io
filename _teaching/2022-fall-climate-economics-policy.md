@@ -4,7 +4,7 @@ collection: teaching
 type: "Exercise"
 permalink: /teaching/2022-fall-climate-economicy-policy
 venue: "University of Potsdam, Department of Economics and Social Sciences"
-date: 2022-10-01
+date: 2023-10-01
 location: "Potsdam, Germany"
 ---
 
