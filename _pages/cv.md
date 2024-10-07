@@ -37,7 +37,7 @@ Work experience
   
 Awards
 ======
-* 2021-present: Ph.D. scholarship by the German Federal Environmental Foundation (<i>Deutsche Bundesstiftung Umwelt</i>)
+* 2021-2024: Ph.D. scholarship by the German Federal Environmental Foundation (<i>Deutsche Bundesstiftung Umwelt</i>)
 * 2020: World Economy Prize for the best M.Sc. dissertation at the University of Nottingham's school of economics
 * 2020: School Prize for Performance in M.Sc. at the University of Nottingham's school of economics
 * 2013-2020: Scholarship by the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>)
