@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Economics at MCC Berlin and Universität Potsdam, ongoing
+* PhD candidate in Economics at MCC Berlin and Universität Potsdam, ongoing
 * Easter School on Macroeconomic Modelling and Policy, University of Surrey, 2023 (1 week)
 * Summer School on Economic Foundations of Energy and Climate Policies, European University Institute, 2022 (1 week)
 * M.Sc. in Economics, Eberhard-Karls-Universität Tübingen, 2020
