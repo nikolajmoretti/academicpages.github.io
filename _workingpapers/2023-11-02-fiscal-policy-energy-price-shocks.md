@@ -1,5 +1,6 @@
 ---
 title: "Fiscal Policy and Energy Price Shocks"
+authors: Blanz, A., Eydam, U., Heinemann, M., Kalkuhl, M., <b>Moretti, N.</b>
 collection: workingpapers
 permalink: 
 excerpt: 'In this paper, we analyse the effect of different fiscal policy measures in response to a non-anticipated energy price shock in a real-business-cycle model with heterogeneous households differing ith respect to their energy consumption and savings capacity.'
@@ -12,4 +13,4 @@ venue: 'CEPA Discussion Paper'
 
 [Download paper here](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/61276/file/cepa70.pdf)
 
-Recommended citation: Blanz, Alkis, Ulrich Eydam, Matthias Kalkuhl, Maik Heinemann, and Nikolaj Moretti (2023). "Fiscal Policy and Energy Price Shocks"; <i>CEPA Discussion Paper</i>. No. 70.
+Recommended citation: Blanz, Alkis, Ulrich Eydam, Maik Heinemann, Matthias Kalkuhl, and Nikolaj Moretti (2023). "Fiscal Policy and Energy Price Shocks"; <i>CEPA Discussion Paper</i>. No. 70.
