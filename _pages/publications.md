@@ -16,7 +16,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+<h2>Working Papers</h2>
+{% for post in site.workingpapers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <h2>Work in Progress</h2>
 {% for post in site.work_in_progress reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-teaching.html %}
 {% endfor %}
