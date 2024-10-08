@@ -1,6 +1,6 @@
 ---
 title: "Fiscal Policy and Energy Price Shocks"
-collection: publications
+collection: workingpapers
 permalink: 
 excerpt: 'In this paper, we analyse the effect of different fiscal policy measures in response to a non-anticipated energy price shock in a real-business-cycle model with heterogeneous households differing ith respect to their energy consumption and savings capacity.'
 date: 2023-11-02
