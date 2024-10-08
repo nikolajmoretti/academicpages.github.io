@@ -1,5 +1,6 @@
 ---
 title: "Power to which people? Energiegerechtigkeit und ownership-Strukturen in Energiegenossenschaften"
+authors: Rieder, Q., Veit, K., <b>Moretti, N.</b>, Peters, L., Li, C.
 collection: publications
 permalink: /publication/2023-11-01-power-to-which-people
 excerpt: 'In this article, we study how energy cooperatives foster a <i>just transition</i> in the energy sector based on interviews conducted with members of two cooperatives.'
