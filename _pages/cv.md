@@ -18,6 +18,7 @@ Education
 * M.Sc in Economics and Econometrics, University of Nottingham, 2020
 * B.Sc. in Mathematics and Economics, Ruprecht-Karls-Universität Heidelberg, 2018
 * B.A. in International Relations, Technische Universität Dresden, 2016
+* Abitur and Baccalauréat (French-German High School Diploma), Gutenbergschule Wiesbaden, 2012
 
   
 Work experience
