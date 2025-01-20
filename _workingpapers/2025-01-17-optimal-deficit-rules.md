@@ -16,4 +16,4 @@ Third, we compare the welfare effects of three fiscal rules: a balanced budget r
 
 [Download paper here](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/67027/file/cepa85.pdf)
 
-Recommended citation: Blanz, Alkis, Ulrich Eydam, Maik Heinemann, Matthias Kalkuhl, and Nikolaj Moretti (2023). "Fiscal Policy and Energy Price Shocks"; <i>CEPA Discussion Paper</i>. No. 70.
+Recommended citation: Bergmann, Tobias and Nikolaj Moretti (2025). "Trading deficits for investment: Optimal deficit rules for present-biased governments"; <i>CEPA Discussion Paper</i>. No. 85.
