@@ -11,6 +11,6 @@ venue: ‘SSRN’
 A cumulative decrease in emissions of 280 Mt CO2 between 2020 and 2030 would lead to an admissible cumulative deficit of around 160 Bn. Euro. Increasing the carbon price to 200 Euro/tCO2 in 2024 would grant additional fiscal space amounting to 0.3% of GDP per year to a government that could be spent unconditionally.
 In comparison to the general golden rule, the green--golden version has decisive advantages when it comes to its practical implementation.
 
-[Download paper here https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5119380)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5119380)
 
-Recommended citation: Edenhofer, Ottmar; Eydam, Ulrich; Heinemann, Maik; Kalkuhl, Matthias; Moretti, Nikolaj (2025). "A Green-Golden Rule for Climate Policy"; <i>SSRN</i>.
+Recommended citation: Edenhofer, Ottmar; Eydam, Ulrich; Heinemann, Maik; Kalkuhl, Matthias; Moretti, Nikolaj (2025). "A Green-Golden Rule for Climate Policy"; <i>Available on SSRN</i>.
